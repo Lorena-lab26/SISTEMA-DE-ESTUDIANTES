@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "nombre": "Ana",
+    "apellido": "Pérez",
+    "email": "ana@escuela.edu",
+    "carnet": "EST2026001",
+    "notas": {
+      "Matemática": [18, 19, 20],
+      "Inglés": [16, 17]
+    },
+    "materias": ["Inglés", "Matemática"]
+  },
+  {
+    "id": 2,
+    "nombre": "Carlos",
+    "apellido": "Mendoza",
+    "email": "carlos@escuela.edu",
+    "carnet": "EST2026002",
+    "notas": {
+      "Matemática": [14, 15, 16],
+      "Programación": [18, 20],
+      "Física": [12, 15]
+    },
+    "materias": ["Física", "Matemática", "Programación"]
+  },
+  {
+    "id": 3,
+    "nombre": "María",
+    "apellido": "Gómez",
+    "email": "maria@escuela.edu",
+    "carnet": "EST2026003",
+    "notas": {
+      "Inglés": [19, 20, 20],
+      "Programación": [17, 18]
+    },
+    "materias": ["Inglés", "Programación"]
+  },
+  {
+    "id": 4,
+    "nombre": "Luis",
+    "apellido": "Ramírez",
+    "email": "luis@escuela.edu",
+    "carnet": "EST2026004",
+    "notas": {
+      "Física": [15, 16],
+      "Historia": [13, 14, 12]
+    },
+    "materias": ["Física", "Historia"]
+  }
+]
